@@ -6,7 +6,7 @@ var buster       = require('buster'),
     XlsxTemplate = require('../lib'),
     fs           = require('fs'),
     path         = require('path'),
-    zip          = require('node-zip'),
+    zip          = require('jszip'),
     etree        = require('elementtree');
 
 buster.spec.expose();

@@ -4,6 +4,7 @@ node_modules
 checkouts
 public-optimized
 test.sql
+test.xlsx
 .idea/.name
 .idea/encodings.xml
 .idea/misc.xml
